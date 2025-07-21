@@ -1,11 +1,11 @@
 export const personalData = {
   // Personal Information
-  name: 'Cute Meowish',
+  name: '🕷️ The-Arachnids',
   mainSkill: 'Web Developer',
-  school: 'Catworld State University',
-  address: 'My address, Catworld',
-  contactNumber: '0123456789',
-  email: 'meowish.000@gmail.com',
+  school: 'SMK TLDM 1 / IKBN Seri Iskandar (Major Networking)',
+  address: 'Pasir Puteh, Kelantan',
+  contactNumber: '+60 169656877',
+  email: 'reokaro89@gmail.com',
 
   // Resume and Profile
   resume: 'meowish-resume.pdf', // Add your PDF resume to the main folder and specify its filename here
@@ -17,9 +17,9 @@ export const personalData = {
   templateId: 'template_id',  // Go to emailJS.com, sign up, and get your template-id then, paste here. 
 
   // Social Media Links
-  facebookLink: 'https://yourFacebookLink.com',
-  instagramLink: 'https://yourInstagramLink.com',
-  tiktokLink: 'https://yourTiktokLink.com',
+  facebookLink: 'https://www.facebook.com/CCGamingOfficialPage/',
+  instagramLink: 'https://www.tiktok.com/@sieureastofficial',
+  tiktokLink: 'https://www.tiktok.com/@sieureastofficial',
 
   // Work Status
   workAvailabilityStatus: 'Available for work',

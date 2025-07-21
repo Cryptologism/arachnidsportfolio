@@ -2,7 +2,7 @@ export const aboutData = {
   aboutMe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem delectus nobis enim minus quaerat praesentium, iste adipisci nesciunt eos ad quae earum voluptatum? Exercitationem ut dolor quam perspiciatis soluta maiores.',
   certificates: [
     {
-      name: 'Catworld Elementary School',
+      name: 'Sekolah Menengah Kebangsaan Pangkalan TLDM 1',
       year: 'Graduated: 2014',
     },
     {

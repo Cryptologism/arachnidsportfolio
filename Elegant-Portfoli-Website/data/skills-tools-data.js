@@ -1,12 +1,14 @@
 export const skillsToolsData = {
   // List of your professional skills
   skills: [
-    { name: 'Frontend Web Developer' },
-    { name: 'Backend Web Developer' },
-    { name: 'Programmer' },
-    { name: 'Responsive Web Designer' },
-    { name: 'Video Editor' },
-    { name: 'Content Creator' },
+    { name: 'Cybersecurity Explorer (Bug Bounty & Exploit Research)' },
+    { name: 'Network Infrastructure Specialist (TCP/IP, Routing, DNS)' },
+    { name: 'Reverse Engineering Enthusiast (Debugging, Binary Analysis)' },
+    { name: 'System Technician (Hardware Repair & OS Diagnostics)' },
+    { name: 'Scripting & Tools Expert (Notepad++, Batch Automation)' },
+    { name: 'Creative Video Editor (Sony Vegas & CapCut)' },
+    { name: 'Content Strategist & Creator (Tutorials, Shorts, Media)' },
+    { name: 'Freelance Videographer (Cinematography)' },
     // Add more skills if needed
   ],
 
@@ -25,16 +27,8 @@ export const skillsToolsData = {
       name: 'JavaScript',
     },
     {
-      icon: 'react-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
-      name: 'React',
-    },
-    {
       icon: 'nodeJS-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
       name: 'Node.js',
-    },
-    {
-      icon: 'mongoDB-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
-      name: 'MongoDB',
     },
     {
       icon: 'git-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
@@ -43,10 +37,6 @@ export const skillsToolsData = {
     {
       icon: 'github-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
       name: 'GitHub',
-    },
-    {
-      icon: 'figma-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
-      name: 'Figma',
     },
     {
       icon: 'capcut-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here

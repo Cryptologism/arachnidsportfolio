@@ -1,21 +1,20 @@
 export const aboutData = {
-  aboutMe: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem delectus nobis enim minus quaerat praesentium, iste adipisci nesciunt eos ad quae earum voluptatum? Exercitationem ut dolor quam perspiciatis soluta maiores.',
+  aboutMe: `Known as The-Arachnids, I craft responsive websites and automation systems with precision and intent. My background in creative coding and technical strategy allows me to build digital experiences that are fast, scalable, and intelligently structured.
+
+I believe great systems don’t just work—they think, adapt, and evolve.`,
+  
   certificates: [
     {
-      name: 'Catworld Elementary School',
-      year: 'Graduated: 2014',
+      name: 'SK TLDM 1',
+      year: 'Graduated: [Insert Year]',
     },
     {
-      name: 'Catworld High School',
-      year: 'Graduated: 2020',
+      name: 'SMK TLDM 1',
+      year: 'Graduated: [Insert Year]',
     },
     {
-      name: 'Catworld State University',
-      year: 'Currently study: 2022 – 2025',
-    },
-    {
-      name: 'Catworld University Tekken Tournament',
-      year: '1st place: 2025',
+      name: 'IKBN SERI ISKANDAR',
+      year: 'Graduated: [Insert Year Start] – [Insert Year End]',
     },
   ],
 };
