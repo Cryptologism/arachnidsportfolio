@@ -30,11 +30,9 @@
   <script type="module" defer src="https://unpkg.com/@splinetool/viewer@1.9.89/build/spline-viewer.js"></script>
 </head>
 <body>
-  <!-- R4X Bot – fixed full-screen background -->
-  <spline-viewer
-    url="https://prod.spline.design/lwmaa3qROeBg-Csf/scene.splinecode"
-    style="position: fixed; inset: 0; width: 100%; height: 100vh; z-index: -1;">
-  </spline-viewer>
+  <!-- dot light following my cursor -->
+  <!-- This dot-light is from spline website , follow the creator of this spline👉 https://app.spline.design/@scottvisuals-->
+  <spline-viewer class="dot-light-cursor" url="https://prod.spline.design/XUuPynbMrquwQa2s/scene.splinecode"></spline-viewer>
 
   <!-- floating dots animation-->
   <div class="dots-background">
@@ -53,17 +51,29 @@
     <div class="dot"></div>
     <div class="dot"></div>
     <div class="dot"></div>
+    <!-- Add more dots as needed -->
   </div>
 
+  <!-- Profile Picture Background, 
+       To change the img, go to data folder (personal-data.js)
+       To update the style go to background.css -->
   <img class="background-profile-pic" rel="preload" alt="profile-photo">
+  
+  <!-- Blur Background -->
   <div class="blur-background"></div>
 
   <div class="main-wrapper">
-    <header></header>
+    <!-- Header-->
+    <header>
+      <!-- Header content is dynamically rendered from the data folder (personal-data.js) -->
+    </header>
 
+    <!-- Sections navigation -->
     <nav class="section-nav">
       <div class="nav-list start-animate">
         <p class="nav-list__active-background"></p>
+        
+        <!-- Navigation Links -->
         <a data-value="home-section" class="nav-list__link" href="#">
           <i class="ph ph-house nav-list__link-icon"></i>
           <span class="nav-list__link-label">Home</span>
@@ -88,32 +98,56 @@
     </nav>
 
     <main class="sections-wraper">
-      <section id="home-section" class="home-section"></section>
-      <section id="about-section" class="about-section"></section>
-
-      <section id="projects-section" class="projects-section">
-        <h1 class="projects-section__heading heading">Projects</h1>
-        <div class="project-section__project-card-list d-grid"></div>
+      <!-- Home Section -->
+      <section id="home-section" class="home-section">
+        <!-- Update home content from the data folder (personal-data.js) -->
+        <!-- Contents is render dynamically in render-contents.js -->
       </section>
 
-      <section id="skills-tools-section" class="skills-tools-section"></section>
+      <!-- About Section -->
+      <section id="about-section" class="about-section">
+        <!-- Update about content from the data folder (about-data.js) -->
+        <!-- Contents is render dynamically in render-contents.js -->
+      </section>
 
+      <!-- Projects Section -->
+      <section id="projects-section" class="projects-section">
+        <h1 class="projects-section__heading heading">Projects</h1>
+        <div class="project-section__project-card-list d-grid">
+        <!-- Update project content from the data folder (projects-data.js) -->
+        <!-- Contents is render dynamically in render-contents.js -->
+        </div>
+      </section>
+
+      <!-- Skills and Tools Section -->
+      <section id="skills-tools-section" class="skills-tools-section">
+        <!-- Update skill and tool content from the data folder (skills-tools-data.js) -->
+        <!-- Contents is render dynamically in render-content.js -->
+      </section>
+
+      <!-- Contact Section -->
       <section id="contact-section" class="contact-section">
         <h1 class="contact-section__heading heading">Contact Me</h1>
         <form id="contact-form">
           <div class="input-divider">
             <input type="text" id="name-input" placeholder="Your name">
             <input type="email" id="email-input" placeholder="Your email">
-          </div>
+          </div>        
           <textarea name="message" id="message-input" placeholder="Your message"></textarea>
           <button class="submit-btn" type="submit">Send</button>
         </form>
       </section>
     </main>
 
-    <footer></footer>
+    <!-- Footer -->
+    <footer>
+        <!-- Add your personal social-media link from the data folder (personal-data.js) -->
+        <!-- Contents is render dynamically in render-content.js -->
+    </footer>
   </div>
-
+  
+  <!-- Main JavaScript File -->
   <script type="module" src="script/main.js"></script>
 </body>
+
 </html>
