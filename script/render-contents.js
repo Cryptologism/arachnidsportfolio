@@ -128,7 +128,7 @@ const footerContents = () => {
         </a>
       </li>
     </ul>
-    <p class="footer__copy-right-txt">&copy; ${currentYear} Meowish. All rights reserved.</p>
+    <p class="footer__copy-right-txt">&copy; ${currentYear} The-Arachnids. All rights reserved.</p>
   `;
 
   document.querySelector('footer').innerHTML = footerHTML;
@@ -144,5 +144,6 @@ function renderAllContents(){
   skillToolsSectionContents();
   footerContents();
 }
+
 
 export default renderAllContents;
