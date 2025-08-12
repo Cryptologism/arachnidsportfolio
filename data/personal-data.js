@@ -2,14 +2,6 @@ export const personalData = {
   // Personal Information
   name: '🕷️ The Arachnids',
   professionalTitle: 'Web Developer & Computer Systems Technician',
-  coreSkills: [
-    'Web Development',
-    'Computer Hardware & Software Troubleshooting',
-    'Networking & System Administration',
-    'IT Support & Maintenance',
-    'Custom PC Assembly & Repair',
-    'Cybersecurity Basics'
-  ],
   education: 'National Youth Skills Institute, Seri Iskandar – Certified Computer Network Technician',
   location: 'Pasir Puteh, Kelantan, Malaysia',
   phone: '+60 16-965 6877',
@@ -32,3 +24,4 @@ export const personalData = {
   // Work Status
   workAvailabilityStatus: 'Available for work'
 };
+
