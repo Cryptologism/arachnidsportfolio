@@ -39,7 +39,7 @@ Every section is crafted with a dark tactical design to align with my identity �
 ## 📮 Contact
 
 📧 Email: reokaro89@gmail.com  
-🐾 Alias: **Sir Cryptologism**  
+🐾 Alias: **Sir Cryptologism a.k.a TheArachnids**  
 📍 Based in Kelantan, Malaysia
 
 ---
