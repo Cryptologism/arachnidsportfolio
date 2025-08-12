@@ -1,10 +1,10 @@
 export const personalData = {
   // Personal Information
-  name: '🕷️ The Arachnids',
-  professionalTitle: 'Web Developer & Computer Systems Technician',
-  education: 'National Youth Skills Institute, Seri Iskandar – Certified Computer Network Technician',
-  location: 'Pasir Puteh, Kelantan, Malaysia',
-  phone: '+60 16-965 6877',
+  name: '🕷️ The-Arachnids',
+  mainSkill: 'Web Developer',
+  school: 'National Youth Skills Institute, Seri Iskandar – Certified Computer Network Technician',
+  address: 'Pasir Puteh, Kelantan, Malaysia',
+  contactNumber: '+60 16-965 6877',
   email: 'reokaro89@gmail.com',
 
   // Resume and Profile
@@ -22,6 +22,5 @@ export const personalData = {
   tiktokLink: 'https://www.tiktok.com/@sieureastofficial',
 
   // Work Status
-  workAvailabilityStatus: 'Available for work'
+  workAvailabilityStatus: 'Available for work',
 };
-
