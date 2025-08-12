@@ -6,17 +6,18 @@ export const projectsData = [
     link: 'https://cryptologism.github.io/gimmediakelantan/',
   },
   {
-    image: 'Arachnids.png',
-    title: 'The Arachnids Blog',
-    detail: 'A personal blog blending creative writing, commentary, and niche insights across culture, media, and everyday life.',
-    link: 'https://thearachnids.blogspot.com/',
-  },
-  {
     image: 'PlatinumHotel.jpeg',
     title: 'Platinum Hotel Café',
     detail: 'Showcase site for Platinum Hotel Café, highlighting its signature menu, dining experience, and special event offerings.',
     link: 'https://platinumhotelcafe.com/',
   },
+  {
+    image: 'Arachnids.png',
+    title: 'The Arachnids Blog',
+    detail: 'A personal blog blending creative writing, commentary, and niche insights across culture, media, and everyday life.',
+    link: 'https://thearachnids.blogspot.com/',
+  },
   // Add more projects if needed
 ];
+
 
