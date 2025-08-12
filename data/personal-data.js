@@ -5,7 +5,7 @@ export const personalData = {
   school: 'National Youth Skills Institute, Seri Iskandar – Certified Computer Network Technician',
   address: 'Pasir Puteh, Kelantan, Malaysia',
   contactNumber: '+60 16-965 6877',
-  email: 'reokaro89@gmail.com',
+  email: 'reokaro89@gmail.com @ gimkelantanhr@gimmedia.com.my',
 
   // Resume and Profile
   resume: 'meowish-resume.pdf', // Place your PDF resume in the main folder
@@ -24,3 +24,4 @@ export const personalData = {
   // Work Status
   workAvailabilityStatus: 'Available for work',
 };
+
