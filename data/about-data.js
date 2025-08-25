@@ -10,7 +10,7 @@ export const aboutData = {
     },
     {
       name: 'Royal Malaysian Navy 1 National Secondary School\nArmed Forces Academic Institution',
-      year: 'Graduated: 2006',
+      year: 'Attended: 2004',
     },
     {
       name: 'Ahmad Boestamam National Secondary School – Form 6 (Lower & Upper Six)\nArts Stream, Major in History & Geography',
@@ -18,7 +18,8 @@ export const aboutData = {
     },
     {
       name: 'National Youth Skills Institute, Seri Iskandar\nMajor in Computer Network Technician',
-      year: 'Attended: 2013 – Graduated: 2015',
+      year: 'Attended: 2012 – Graduated: 2013',
     },
   ],
 };
+
