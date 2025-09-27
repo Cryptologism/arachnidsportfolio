@@ -18,13 +18,14 @@ export const projectsData = [
     link: 'https://thearachnids.blogspot.com/',
   },
   {
-  image: 'GitHub.png',
+  image: 'GitHub.jpg',
   title: 'My GitHub Portfolio',
   detail: 'Explore my GitHub repositories, open-source projects, and contributions. Includes coding experiments, automation tools, and portfolio work.',
   link: 'https://github.com/Cryptologism',
 },
   // Add more projects if needed
 ];
+
 
 
 
