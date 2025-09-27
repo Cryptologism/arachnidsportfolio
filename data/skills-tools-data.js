@@ -37,6 +37,7 @@ export const skillsToolsData = {
     {
       icon: 'github-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
       name: 'GitHub',
+      link: 'https://github.com/Cryptologism', // ✅ clickable GitHub profile
     },
     {
       icon: 'capcut-icon.png', // Add your tool-icon to the "images-and-icons/icons" folder, then specify it's file name here
@@ -45,3 +46,4 @@ export const skillsToolsData = {
     // Add more tools if needed
   ],
 };
+
