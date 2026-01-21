@@ -1,15 +1,30 @@
 export const projectsData = [
   {
-    image: 'cat-profile-2.png', // Add your project image to the "images-and-icons/images" folder, then specify the filename here.
-    title: 'Project-Title 1',
-    detail: 'Lorem ipsum dolor, sit amet consectetur.',
-    link: 'https://cryptologism.github.io/arachnidsportfolio/page.html', //Host or upload your project in internet then paste the link here
+    image: 'Gimmedia.png',
+    title: 'Gimmedia Kelantan',
+    detail: 'Regional Gimmedia hub for Kelantan, featuring livestream schedules, local event updates, and content tailored to the state’s audience.',
+    link: 'https://cryptologism.github.io/gimmediakelantan/',
   },
   {
-    image: 'cat-profile-2.png', // Add your project image to the "images-and-icons/images" folder, then specify the filename here.
-    title: 'Project-Title 2',
-    detail: 'Lorem ipsum dolor, sit amet consectetur.',
-    link: 'https://cryptologism.github.io/arachnidsportfolio/page.html' //Host or upload your project in internet then paste the link here
+    image: 'PlatinumHotel.jpeg',
+    title: 'Platinum Hotel Café',
+    detail: 'Showcase site for Platinum Hotel Café, highlighting its signature menu, dining experience, and special event offerings.',
+    link: 'https://platinumhotelcafe.com/',
   },
-  // Add more projects if needed 
-]
+  {
+    image: 'Arachnids.png',
+    title: 'The Arachnids Blog',
+    detail: 'A personal blog blending creative writing, commentary, and niche insights across culture, media, and everyday life.',
+    link: 'https://thearachnids.blogspot.com/',
+  },
+  {
+  image: 'GitHub.jpg',
+  title: 'My GitHub Portfolio',
+  detail: 'Explore my GitHub repositories, open-source projects, and contributions. Includes coding experiments, automation tools, and portfolio work.',
+  link: 'https://github.com/Cryptologism',
+},
+  // Add more projects if needed
+];
+
+
+
