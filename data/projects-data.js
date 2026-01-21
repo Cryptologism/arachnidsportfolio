@@ -23,23 +23,6 @@ const projects = [
     detail: 'Repository hub featuring open-source projects, coding experiments, automation tools, and portfolio work.',
     link: 'https://github.com/Cryptologism',
   },
-  {
-    image: 'FluxCP.png',
-    title: 'Flux Control Panel',
-    detail: 'Web-based control panel system designed to manage platform operations, configurations, and internal workflows.',
-    link: 'http://217.216.109.120/fluxcp/',
-  },
-  {
-    image: 'GimmediaPlatform.png',
-    title: 'Gimmedia Platform',
-    detail: 'Official Gimmedia web platform providing digital media services, operational dashboards, and brand resources.',
-    link: 'http://217.216.109.120/gimmedia/',
-  },
-  {
-    image: 'PlatinumHotel.png',
-    title: 'Platinum Hotel Website',
-    detail: 'Hospitality website showcasing hotel rooms, facilities, promotions, and booking-related information.',
-    link: 'http://217.216.109.120/platinumhotel/',
-  },
   // Add more projects if needed
 ];
+
