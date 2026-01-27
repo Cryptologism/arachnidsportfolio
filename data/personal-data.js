@@ -12,8 +12,8 @@ export const personalData = {
   profilePicture: 'cat-profile-2.png', // Place your profile picture in the "images-and-icons/images" folder
 
   // EmailJS Configuration
-  publicKey: 'YourPublicKey', // Get from EmailJS.com
-  serviceId: 'service_id', // Get from EmailJS.com
+  publicKey: 'u0_dMSesYub3nP4h3', // Get from EmailJS.com
+  serviceId: 'service_ujqdouq', // Get from EmailJS.com
   templateId: 'template_id', // Get from EmailJS.com
 
   // Social Media Links
@@ -24,4 +24,5 @@ export const personalData = {
   // Work Status
   workAvailabilityStatus: 'Available for work',
 };
+
 
