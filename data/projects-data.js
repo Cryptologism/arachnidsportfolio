@@ -24,21 +24,22 @@ export const projectsData = [
     link: 'https://github.com/Cryptologism',
   },
   {
-    image: 'FluxCP.png',
+    image: 'flux.gif',
     title: 'FluxCP – Ragnarok Control Panel',
     detail: 'Self-hosted FluxCP installation for Ragnarok Online server management. Handles player accounts, rankings, character data, and in-game administrative features.',
     link: 'http://217.216.109.120/fluxcp/',
   },
   {
-    image: 'GimmediaInternal.png',
+    image: 'gimmediaII.PNG',
     title: 'Gimmedia Internal Ops Portal',
     detail: 'Internal Gimmedia operations portal for team coordination, internal tools, and centralized access to project resources and workflows.',
     link: 'http://217.216.109.120/gimmedia/',
   },
   {
-    image: 'PlatinumHotelInternal.png',
+    image: 'hotelII.PNG',
     title: 'Platinum Hotel Internal Site',
     detail: 'Internal web system for Platinum Hotel, used for content management, service information, and internal operational reference.',
     link: 'http://217.216.109.120/platinumhotel/',
   },
 ];
+
